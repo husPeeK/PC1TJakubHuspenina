@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/Huspenina/cv3/Huspeninaprojekt/out/build/x64-debug/CMakeFiles/Huspeninaprojekt.dir
+C:/Users/student/Desktop/Huspenina/cv3/Huspeninaprojekt/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/Huspenina/cv3/Huspeninaprojekt/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
