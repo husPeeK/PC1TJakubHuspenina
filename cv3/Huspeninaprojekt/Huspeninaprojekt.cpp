@@ -13,7 +13,7 @@ int main() {
     
     cout << "Zadejte cas v sekundach, za ktery se ozval hrom po blesku: ";
     if (!(cin >> time)) {
-        cout << "Neplatny vstup! Prosim, zadejte cislo." << endl;
+        cout << "Prosim, zadejte cislo." << endl;
         return 1;
     }
 
